@@ -1,4 +1,4 @@
-#📰 News Article Summarizer
+#📰News Article Summarizer
 Overview
 
 The News Article Summarizer is a web application designed to summarize news articles and analyze their sentiment. The application uses advanced natural language processing (NLP) techniques to provide concise and informative summaries while indicating the overall sentiment (positive, negative, or neutral) of the article.
